@@ -1,0 +1,38 @@
+.header-container{
+  background: red;
+}
+.header-container a{
+  color: white !important;
+}
+.header.header-container a.active{
+  color: white;
+  font-weight: bold;
+}
+.navbar-container{
+  position: relative;
+}
+.navbar-container > div {
+  position: absolute;
+  right: 0;
+}
+.service-container{
+  background: white;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.useful-link > li {
+  list-style: none;
+  height: 50px;
+}
+.useful-link > li > a {
+  text-decoration: none;
+  color:black;
+  font-weight: bold;
+}
+.about-image{
+  width: 500px;
+  height: 500px;
+}
+.contact-container{
+  margin-top: 70px;
+}
