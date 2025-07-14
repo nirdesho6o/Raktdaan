@@ -5,13 +5,13 @@ const Footer=()=> {
         <div className="col-sm-4">
             <div className="text-center">
         
-                <h2>Useful Links</h2>
+                <h2>Connect With Us</h2>
             </div>
             <div className="text-center">
             <ul className="useful-link">
-                <li><Link to={'/'}>Link 1</Link></li>
-                <li><Link to={'/'}>Link 2</Link></li>
-                <li><Link to={'/'}>Link 3</Link></li>
+                <li><Link to={'https://www.linkedin.com/in/nirdesh-bhandari-5b9644136/'}>LinkedIn</Link></li>
+                <li><Link to={'https://github.com/nirdesho6o/Raktdaan'}>GitHub</Link></li>
+                <li><Link to={'https://www.nitw.ac.in/'}>NITW</Link></li>
 
             </ul>
             </div>
@@ -19,14 +19,14 @@ const Footer=()=> {
         <div className='col-sm-4'>
             <div>
                 <p style={{color:'black',fontWeight:'bold',marginTop:'20px'}}>Address: </p>
-                <p>I will fill this as well later on after i finalize.</p>
+                <p>NIT Warangal, Telangana, India</p>
                 <p>Email: nb23ecb0f36@student.nitw.ac.in</p>
                 <p> Mobile Number: +91 7678653043</p>
             </div>
 
         </div>
         <div className="col-sm-4">
-            <p style={{marginTop:'20px'}}>Hello this also i will fill later on okay brotha</p>
+            <p style={{marginTop:'20px'}}> <h6>Feel free to Connect</h6></p>
             <div className="form-group">
                 <input type="email" className="form-control" placeholder="Enter your Email " />
             </div>
