@@ -14,7 +14,6 @@ router.post('/chat', async (req, res) => {
             return res.status(400).json({ error: 'Message is required' });
         }
 
-        // Simple rule-based responses for testing
         let response = '';
         const lowerMessage = message.toLowerCase();
         

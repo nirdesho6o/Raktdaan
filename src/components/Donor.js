@@ -10,7 +10,10 @@ const Donor=()=>{
                 </div>
                 <div style={{display:'flex',justifyContent:'center'}}>
                     <div style={{width:'80%'}}>
-                        <p>This is just a sample text, I will add the actual text at the end of the project according to my understanding. This is just to check if the text is alligned properly according to the code or not </p>
+                        <p>Your one donation can save up to three lives. Join our mission to build a healthier, stronger community by giving the gift of life.
+Whether you're a first-time donor or a regular contributor, your support makes a real difference.
+
+ </p>
                     </div>
                 </div>
                 <div className="text-center">
